@@ -24,3 +24,4 @@ else
 {
     console.log("average is not greater then 100 koalas average is "+koalasAverage+" dolphin average is "+dolphinsAverage)
 }
+//last
